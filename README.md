@@ -50,4 +50,4 @@
 </p>
 
 ---
-Connect with me:** le0036182@gmail.com
+Connect with me: le0036182@gmail.com
