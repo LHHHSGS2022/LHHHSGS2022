@@ -26,7 +26,7 @@
 - **Tech Stack:** `C++`, `Python`, `IoT Sensors`, `MQTT`, `Data Visualization`
 - **Key Outcome:** Published research paper on intelligent traffic control protocols.
 
-### 2. [AIGC International Competition Entry](https://github.com/LHHHSGS2022/ten-repo-aigc)
+### 2. [AIGC International Competition Entry](https://github.com/AIGC2025-VN/camera-stream)
 > **Generative AI Application**
 - **Overview:** Developed AI-driven generative tools for international competition challenges.
 - **Tech Stack:** `Python`, `PyTorch` / `TensorFlow`, `OpenCV`
