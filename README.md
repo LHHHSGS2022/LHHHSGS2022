@@ -20,7 +20,7 @@
 
 ## Highlighted Research & Projects
 
-### 1. [IoT Traffic Congestion Reduction System](https://github.com/LHHHSGS2022/ten-repo-iot)
+### 1. [IoT Traffic Congestion Reduction System](https://ijmsm.org/ijmsm-v3i3p111.html)
 > **Academic Research Project**
 - **Problem:** Addressing severe urban traffic congestion in Vietnam using IoT sensor networks and data analytics.
 - **Tech Stack:** `C++`, `Python`, `IoT Sensors`, `MQTT`, `Data Visualization`
