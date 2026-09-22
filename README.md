@@ -44,10 +44,9 @@
 
 ## GitHub Profile Overview
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LHHHSGS2022&show_icons=true&theme=tokyonight&locale=en" alt="Hoang's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LHHHSGS2022&layout=compact&theme=tokyonight&locale=en" alt="Top Languages" width="48%" />
-</p>
+![Hoang's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LHHHSGS2022&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LHHHSGS2022&layout=compact&theme=tokyonight)
 
 ---
 Connect with me: le0036182@gmail.com
