@@ -42,15 +42,20 @@
 
 ---
 
-## GitHub Profile Overview
+##  GitHub Profile Overview
 
-## 🛠️ Tech Stack & Badges
+| Metric | Details |
+| :--- | :--- |
+|  Institution | High School for Gifted Students (HSGS), VNU |
+|  Core Focus | AI (AIGC), IoT Systems, Computer Vision |
+|  Publications | 1 International Journal Paper (*IJMSM 2026*) |
+|  Community | AIGC Vietnam, Saint Paul Hospital, SOS Village |
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![IoT](https://img.shields.io/badge/IoT-Sensors_&_Edge-008080?style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/Research_Paper-Published-brightgreen?style=for-the-badge&logo=IEEE" />
+  <img src="https://img.shields.io/badge/Community-AIGC_Vietnam-blue?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Volunteer-3_Certificates-orange?style=for-the-badge" />
+</p>
 
 ---
 Connect with me: le0036182@gmail.com
