@@ -37,7 +37,7 @@
 
 - Languages: `Python` `C++` `JavaScript` `SQL`
 - Hardware & IoT: `Arduino` `ESP32` `Raspberry Pi` `MQTT`
-- AI & Data:** `Machine Learning` `Data Analysis` `AIGC Pipelines`
+- AI & Data: `Machine Learning` `Data Analysis` `AIGC Pipelines`
 - Developer Tools: `Altium PCB` `GitHub` `VS Code` `Linux`
 
 ---
