@@ -44,9 +44,13 @@
 
 ## GitHub Profile Overview
 
-![Hoang's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LHHHSGS2022&show_icons=true&theme=tokyonight)
+## 🛠️ Tech Stack & Badges
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LHHHSGS2022&layout=compact&theme=tokyonight)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![IoT](https://img.shields.io/badge/IoT-Sensors_&_Edge-008080?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 Connect with me: le0036182@gmail.com
