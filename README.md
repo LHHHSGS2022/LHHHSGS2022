@@ -45,8 +45,8 @@
 ## GitHub Profile Overview
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LHHHSGS2022&show_icons=true&theme=tokyonight&hide_border=true" alt="Hoang's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LHHHSGS2022&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=LHHHSGS2022&show_icons=true&theme=tokyonight&locale=en" alt="Hoang's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LHHHSGS2022&layout=compact&theme=tokyonight&locale=en" alt="Top Languages" width="48%" />
 </p>
 
 ---
